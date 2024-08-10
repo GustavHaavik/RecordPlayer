@@ -1,0 +1,442 @@
+[
+  {
+    "id": "1",
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": "1973",
+    "cover_art": "/dark-side-of-the-moon.jpg",
+    "price": 20,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Speak to Me",
+        "duration": 90
+      },
+      {
+        "id": "2",
+        "title": "Breathe",
+        "duration": 163
+      },
+      {
+        "id": "3",
+        "title": "On the Run",
+        "duration": 210
+      },
+      {
+        "id": "4",
+        "title": "Time",
+        "duration": 413
+      },
+      {
+        "id": "5",
+        "title": "The Great Gig in the Sky",
+        "duration": 255
+      },
+      {
+        "id": "6",
+        "title": "Money",
+        "duration": 390
+      },
+      {
+        "id": "7",
+        "title": "Us and Them",
+        "duration": 471
+      },
+      {
+        "id": "8",
+        "title": "Any Colour You Like",
+        "duration": 204
+      },
+      {
+        "id": "9",
+        "title": "Brain Damage",
+        "duration": 230
+      },
+      {
+        "id": "10",
+        "title": "Eclipse",
+        "duration": 123
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "year": "1969",
+    "cover_art": "abbey-road.jpg",
+    "price": 25,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Come Together",
+        "duration": 260
+      },
+      {
+        "id": "2",
+        "title": "Something",
+        "duration": 183
+      },
+      {
+        "id": "3",
+        "title": "Maxwell's Silver Hammer",
+        "duration": 207
+      },
+      {
+        "id": "4",
+        "title": "Oh! Darling",
+        "duration": 207
+      },
+      {
+        "id": "5",
+        "title": "Octopus's Garden",
+        "duration": 207
+      },
+      {
+        "id": "6",
+        "title": "I Want You (She's So Heavy)",
+        "duration": 207
+      },
+      {
+        "id": "7",
+        "title": "Here Comes the Sun",
+        "duration": 207
+      },
+      {
+        "id": "8",
+        "title": "Because",
+        "duration": 207
+      },
+      {
+        "id": "9",
+        "title": "You Never Give Me Your Money",
+        "duration": 207
+      },
+      {
+        "id": "10",
+        "title": "Sun King",
+        "duration": 207
+      },
+      {
+        "id": "11",
+        "title": "Mean Mr. Mustard",
+        "duration": 207
+      },
+      {
+        "id": "12",
+        "title": "Polythene Pam",
+        "duration": 207
+      },
+      {
+        "id": "13",
+        "title": "She Came in Through the Bathroom Window",
+        "duration": 207
+      },
+      {
+        "id": "14",
+        "title": "Golden Slumbers",
+        "duration": 207
+      },
+      {
+        "id": "15",
+        "title": "Carry That Weight",
+        "duration": 207
+      },
+      {
+        "id": "16",
+        "title": "The End",
+        "duration": 207
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "The Wall",
+    "artist": "Pink Floyd",
+    "year": "1979",
+    "cover_art": "/the-wall.jpg",
+    "price": 30,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "In the Flesh?",
+        "duration": 207
+      },
+      {
+        "id": "2",
+        "title": "The Thin Ice",
+        "duration": 207
+      },
+      {
+        "id": "3",
+        "title": "Another Brick in the Wall, Part 1",
+        "duration": 207
+      },
+      {
+        "id": "4",
+        "title": "The Happiest Days of Our Lives",
+        "duration": 207
+      },
+      {
+        "id": "5",
+        "title": "Another Brick in the Wall, Part 2",
+        "duration": 207
+      },
+      {
+        "id": "6",
+        "title": "Mother",
+        "duration": 207
+      },
+      {
+        "id": "7",
+        "title": "Goodbye Blue Sky",
+        "duration": 207
+      },
+      {
+        "id": "8",
+        "title": "Empty Spaces",
+        "duration": 207
+      },
+      {
+        "id": "9",
+        "title": "Young Lust",
+        "duration": 207
+      },
+      {
+        "id": "10",
+        "title": "One of My Turns",
+        "duration": 207
+      },
+      {
+        "id": "11",
+        "title": "Don't Leave Me Now",
+        "duration": 207
+      },
+      {
+        "id": "12",
+        "title": "Another Brick in the Wall, Part 3",
+        "duration": 207
+      },
+      {
+        "id": "13",
+        "title": "Goodbye Cruel World",
+        "duration": 207
+      },
+      {
+        "id": "14",
+        "title": "Hey You",
+        "duration": 207
+      },
+      {
+        "id": "15",
+        "title": "Is There Anybody Out There?",
+        "duration": 207
+      },
+      {
+        "id": "16",
+        "title": "Nobody Home",
+        "duration": 207
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Led Zeppelin IV",
+    "artist": "Led Zeppelin",
+    "year": "1971",
+    "cover_art": "/led-zeppelin-iv.jpg",
+    "price": 35,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Black Dog",
+        "duration": 207
+      },
+      {
+        "id": "2",
+        "title": "Rock and Roll",
+        "duration": 207
+      },
+      {
+        "id": "3",
+        "title": "The Battle of Evermore",
+        "duration": 207
+      },
+      {
+        "id": "4",
+        "title": "Stairway to Heaven",
+        "duration": 207
+      },
+      {
+        "id": "5",
+        "title": "Misty Mountain Hop",
+        "duration": 207
+      },
+      {
+        "id": "6",
+        "title": "Four Sticks",
+        "duration": 207
+      },
+      {
+        "id": "7",
+        "title": "Going to California",
+        "duration": 207
+      },
+      {
+        "id": "8",
+        "title": "When the Levee Breaks",
+        "duration": 207
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": "1977",
+    "cover_art": "/rumours.jpg",
+    "price": 40,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Second Hand News",
+        "duration": 207
+      },
+      {
+        "id": "2",
+        "title": "Dreams",
+        "duration": 207
+      },
+      {
+        "id": "3",
+        "title": "Never Going Back Again",
+        "duration": 207
+      },
+      {
+        "id": "4",
+        "title": "Don't Stop",
+        "duration": 207
+      },
+      {
+        "id": "5",
+        "title": "Go Your Own Way",
+        "duration": 207
+      },
+      {
+        "id": "6",
+        "title": "Songbird",
+        "duration": 207
+      },
+      {
+        "id": "7",
+        "title": "The Chain",
+        "duration": 207
+      },
+      {
+        "id": "8",
+        "title": "You Make Loving Fun",
+        "duration": 207
+      },
+      {
+        "id": "9",
+        "title": "I Don't Want to Know",
+        "duration": 207
+      },
+      {
+        "id": "10",
+        "title": "Oh Daddy",
+        "duration": 207
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "The Beatles",
+    "artist": "The Beatles",
+    "year": "1968",
+    "cover_art": "/the-beatles.jpg",
+    "price": 45,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Back in the U.S.S.R.",
+        "duration": 207
+      },
+      {
+        "id": "2",
+        "title": "Dear Prudence",
+        "duration": 207
+      },
+      {
+        "id": "3",
+        "title": "Glass Onion",
+        "duration": 207
+      },
+      {
+        "id": "4",
+        "title": "Ob-La-Di, Ob-La-Da",
+        "duration": 207
+      },
+      {
+        "id": "5",
+        "title": "Wild Honey Pie",
+        "duration": 207
+      },
+      {
+        "id": "6",
+        "title": "The Continuing Story of Bungalow Bill",
+        "duration": 207
+      },
+      {
+        "id": "7",
+        "title": "While My Guitar Gently Weeps",
+        "duration": 207
+      },
+      {
+        "id": "8",
+        "title": "Happiness is a Warm Gun",
+        "duration": 207
+      },
+      {
+        "id": "9",
+        "title": "Martha My Dear",
+        "duration": 207
+      },
+      {
+        "id": "10",
+        "title": "I'm So Tired",
+        "duration": 207
+      },
+      {
+        "id": "11",
+        "title": "Blackbird",
+        "duration": 207
+      },
+      {
+        "id": "12",
+        "title": "Piggies",
+        "duration": 207
+      },
+      {
+        "id": "13",
+        "title": "Rocky Raccoon",
+        "duration": 207
+      },
+      {
+        "id": "14",
+        "title": "Don't Pass Me By",
+        "duration": 207
+      },
+      {
+        "id": "15",
+        "title": "Why Don't We Do It in the Road?",
+        "duration": 207
+      },
+      {
+        "id": "16",
+        "title": "I Will",
+        "duration": 207
+      }
+    ]
+  }
+]
